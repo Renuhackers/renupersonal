@@ -191,9 +191,12 @@ Nᴀᴍᴇ - {}"""
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
     CAPTION = """
+<code>{file_caption}</code>
+<b>
 =========== • ✠ • ===========
 ▫️ ᴄʜᴀɴɴᴇʟ : @Request_Moviews
 ▫️ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : @Request_Moviews
+please 🙏 🥺 support 
 =========== • ✠ • ===========</b>"""
 
     IMDB_TEMPLATE_TXT = """
